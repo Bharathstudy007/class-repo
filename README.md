@@ -2,7 +2,7 @@
 **Time**: Monday and Wednesday 11:25-12:40
 
 **Location**: Statler 453
-
+**abcdef**
 **Office Hours**: Tuesday 3-4
 
 **Prerequisites**: ECON 6090 and ECON 6170
